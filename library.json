@@ -1,0 +1,20 @@
+{
+  "name": "Dummy Test Extension",
+  "version": "0.0.1",
+  "description": "MobaLedLib Extension is for testing various options only",
+  "keywords": "MobaLedLib, Extension, MLX",
+  "authors": [
+    {
+      "name": "Jueff",
+      "email": "mobaledlib@gmx.at",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jueff/DummyMLX"
+  },
+  "homepage": "https://github.com/Jueff/DummyMLX#readme",
+  "frameworks": "*",
+  "headers": ["DummyMLX.h"]
+}
